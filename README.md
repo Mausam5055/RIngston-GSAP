@@ -2,7 +2,10 @@
 
 A stunning 3D experience built with **React**, **react-three-fiber**, **react-drei**, and **GSAP**. This project showcases scroll-based animations and interactive 3D elements to create visually appealing websites.
 
-![Project Preview](public/images/preview1.png)
+## 🖼️ Project Previews
+
+![Project Preview 1](public/images/preview1.png)
+![Project Preview 2](public/images/preview2.png)
 
 ## 🌟 Features
 
