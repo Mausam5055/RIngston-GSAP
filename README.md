@@ -1,56 +1,79 @@
-# Ringston 3D Experience 💍✨
+# 💍 Ringston 3D Experience
 
-A stunning 3D experience built with **React**, **react-three-fiber**, **react-drei**, and **GSAP**. This project showcases scroll-based animations and interactive 3D elements to create visually appealing websites.
+> **A stunning interactive 3D website** built with **React**, **Three.js**, **GSAP**, and more — scroll-driven, animated, immersive.
 
-## 🖼️ Project Previews
+[![Live Demo](https://img.shields.io/badge/🔗-Live%20Demo-00C853?style=for-the-badge)](https://ringston.vercel.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
+[![React](https://img.shields.io/badge/⚛️-React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Three.js](https://img.shields.io/badge/🌀-Three.js-000000?style=for-the-badge&logo=three.js)](https://threejs.org/)
+[![GSAP](https://img.shields.io/badge/🎬-GSAP-88CE02?style=for-the-badge)](https://greensock.com/gsap/)
 
-![Project Preview 1](public/images/preview1.png)
-![Project Preview 2](public/images/preview2.png)
+---
 
-## 🌟 Features
+## 🖼️ Previews
 
-1. **💍 Scroll-Linked 3D Ring Animation:** As you scroll, a 3D ring object emerges from its box, scales dynamically, and moves out of the viewport, creating a captivating central animation tied directly to scroll progress. 
-2. **💫 Parallax Effects:** Various UI elements move at different speeds during scrolling, adding depth and a subtle sense of movement to the layout. 
-3. **↔️ Pinned Horizontal Scroll Section:** This section pins to the viewport and transitions to horizontal scrolling. Within this section, each distinct part features scroll-linked, staggered animations for text elements. 
-4. **🧊 3D Object Re-Entry (Wireframe):** Further down the page, the 3D ring object reappears, potentially showcasing a cool wireframe aesthetic, providing a visual callback.
-5. **AI-generated 3D box model:** Using text to image, then image to 3D model, and then positioning it under appropriate lighting for look and feel.
+![Preview 1](public/images/preview1.png)
+![Preview 2](public/images/preview2.png)
+
+---
+
+## 🌟 Key Features
+
+| Feature | Description |
+|--------|-------------|
+| 💍 **Scroll-Linked 3D Animation** | A ring emerges, scales, and exits based on scroll progress |
+| 💫 **Parallax Effects** | Smooth motion of UI elements based on scroll speed |
+| ↔️ **Horizontal Scroll Section** | Pinned layout with horizontal transitions and text reveals |
+| 🧊 **3D Object Re-Entry** | Reappearance of 3D ring in wireframe style |
+| 🧠 **AI-generated 3D Model** | Created via AI from text → image → 3D model, lit for realism |
+
+---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React Three Fiber
-- 🪐 Drei
-- 🎬 GSAP + ScrollTrigger
-- 🌀 Three.js
-- 🎨 CSS Modules
-- ⚡ Vite
-- 🎨 Tailwind CSS
+| Tech | Role |
+|------|------|
+| ⚛️ **React** | Base framework |
+| 🌀 **Three.js** | Core 3D engine |
+| 🪐 **React Three Fiber** | React renderer for Three.js |
+| 🎬 **GSAP + ScrollTrigger** | Scroll animations and timeline control |
+| 🧰 **Drei** | Useful helpers for 3D scenes |
+| ⚡ **Vite** | Lightning-fast dev environment |
+| 🎨 **Tailwind CSS** | Utility-first responsive styling |
+| 🖌️ **CSS Modules** | Component-scoped styles |
+
+---
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://ringston.vercel.app)
+👉 [**Check it out on Vercel**](https://ringston.vercel.app)
 
-## 👨‍💻 Connect with Me
-
-- [GitHub](https://github.com/Mausam5055)
-- [LinkedIn](https://www.linkedin.com/in/mausam-kar-6388861a7/)
+---
 
 ## 📦 Getting Started
 
-1. Clone the repository
+Clone the repo and run locally:
+
 ```bash
+# 1. Clone the project
 git clone https://github.com/Mausam5055/Ringston.git
-```
+cd Ringston
 
-2. Install dependencies
-```bash
+# 2. Install dependencies
 npm install
-```
 
-3. Start the development server
-```bash
+# 3. Run the dev server
 npm run dev
 ```
 
-## 📝 License
+---
 
-MIT
+## 👨‍💻 Connect with Me
+
+Feel free to reach out or follow me on:
+
+💻 GitHub: [github.com/Mausam5055](https://github.com/Mausam5055)
+
+💼 LinkedIn: [linkedin.com/in/mausam-kar-6388861a7](https://www.linkedin.com/in/mausam-kar-6388861a7)
+
+📫 Email: mausamofficial5055@gmail.com
